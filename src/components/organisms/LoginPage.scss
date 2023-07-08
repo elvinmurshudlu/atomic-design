@@ -9,10 +9,10 @@
   justify-content: center;
   align-items: center;
 
-  @include tablet{
-    background-color: red;
-    letter-spacing: 10px;
-  }  
+  // @include tablet{
+  //   background-color: red;
+  //   letter-spacing: 10px;
+  // }  
 
 
   &__title {
